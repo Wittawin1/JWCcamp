@@ -1,0 +1,193 @@
+html,body{
+background-color: purple;
+margin:0;
+padding:0;
+}
+
+.headR{
+ text-align: right;
+ padding:10px;
+}
+
+.headerbuff{
+height:70px;
+border: 3px solid rgb(255, 255, 255);
+display: block;
+align-items:center;
+}
+
+.headwent{
+text-decoration: none;
+margin-right:30;
+color:white;
+padding:1rem;
+font-size:30;
+}
+
+.botton {
+  color: darkblue;
+  background-color:white;
+  padding: 10px;
+}
+
+.mainh1{
+text-align:center;
+color:white;
+font-size:100px;
+}
+
+.pwhite1{
+text-align:center;
+color:white;
+font-size:30px;
+}
+
+.a1linkbox{
+  align-items: center;
+  text-align: center;
+  margin-top: 15px;
+  color: #661080;
+  background: #ffffff;
+  width: 10%;
+  display: block;
+  margin: 10px auto;
+  font-size: 20px;
+  padding: 1rem;
+}
+
+.a1link{
+  text-decoration:none;
+  font-size:30px;
+}
+
+.mainh12{
+text-align:left;
+margin-top: 200px;
+margin-left:200;
+color:white;
+font-size:60px;
+}
+
+.pwhite2{
+text-align:left;
+margin-top: 0px;
+margin-left:200;
+color:white;
+font-size: 30px;
+}
+
+.h21{
+  text-align:center;
+  color:white;
+  font-size:50px;
+  margin-top:130px;;
+}
+
+.image1{
+margin-left:1200;
+margin-top:-350;
+width:50%;
+width:500px;
+height:300px;
+display:flex;
+}
+
+.image2{
+  margin-left:175;
+  margin-top:10;
+  width:400px;
+  height:300px;
+  display:inline-block;
+  border-radius:50% ;
+  }
+
+  .image3{
+    margin-left:175;
+    margin-top:10;
+    width:400px;
+   height:300px;
+    display:inline-block;
+    border-radius:50% ;
+    }
+
+    .image4{
+      margin-left:175;
+      margin-top:10;
+      width:400px;
+      height:300px;
+      display:inline-block;
+      border-radius:50% ;
+      }
+
+.h31{
+text-align:left;
+margin-left:270px;
+color:white;
+font-size:30px;
+}
+
+.h32{
+  text-align:center;
+  margin-left:20px;
+  margin-top:-70px ;
+  color:white;
+  font-size:30px;
+  }
+
+  .h33{
+    text-align:right;
+    margin-right:250px;
+    margin-top:-60px ;
+    color:white;
+    font-size:30px;
+    }
+
+    .review1{
+      text-align:center;
+      margin-top: 30px;
+      margin-right:1165;
+      color:white;
+    }
+    .review2{
+      text-align:center;
+      margin-top: -70px;
+      margin-left:50;
+      color:white;
+    }
+    .review3{
+      text-align: center;
+      margin-top: -80px;
+      margin-left:1200;
+      color:white;
+
+    }
+
+    .image5{
+     
+      width:50%;
+      width:650px;
+      height:650px;
+      display:flex-start;
+      margin-top:150px;
+      margin-bottom:100px;
+      margin-right:100px;
+      margin-left:100px;
+
+    }
+
+.h22{
+  text-align:center;
+  margin-top:-755px ;
+  color:white;
+  font-size:45px;
+  margin-left:400px;
+ 
+}
+
+.information{
+  text-align:left;
+  color:white;
+  margin-left:910px; 
+  font-size:20px;
+}
+
